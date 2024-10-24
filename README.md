@@ -31,3 +31,4 @@ A simple web application to track daily expenses, allowing users to add, view, f
 ### Submission
 
 This outline should help you structure your Expense Tracker application effectively. If you have any specific questions or need further assistance, feel free to ask!
+
